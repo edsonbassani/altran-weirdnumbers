@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeirdNumbers.Console", "WeirdNumbers.Console\WeirdNumbers.Console.csproj", "{67BE19C4-715D-4F42-98D0-1EC17D7FF0B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeirdNumbers.Businness", "WeirdNumbers.Businness\WeirdNumbers.Businness.csproj", "{C6C1153D-D090-48E5-B297-AB085488AF16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67BE19C4-715D-4F42-98D0-1EC17D7FF0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67BE19C4-715D-4F42-98D0-1EC17D7FF0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67BE19C4-715D-4F42-98D0-1EC17D7FF0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67BE19C4-715D-4F42-98D0-1EC17D7FF0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C1153D-D090-48E5-B297-AB085488AF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C1153D-D090-48E5-B297-AB085488AF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C1153D-D090-48E5-B297-AB085488AF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C1153D-D090-48E5-B297-AB085488AF16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EF5637B-09DB-413A-93E9-2921309E0814}
+	EndGlobalSection
+EndGlobal

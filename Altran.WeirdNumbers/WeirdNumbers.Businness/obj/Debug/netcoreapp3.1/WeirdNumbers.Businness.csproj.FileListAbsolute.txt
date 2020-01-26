@@ -1,0 +1,8 @@
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Businness\bin\Debug\netcoreapp3.1\WeirdNumbers.Businness.deps.json
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Businness\bin\Debug\netcoreapp3.1\WeirdNumbers.Businness.dll
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Businness\bin\Debug\netcoreapp3.1\WeirdNumbers.Businness.pdb
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Businness\obj\Debug\netcoreapp3.1\WeirdNumbers.Businness.csprojAssemblyReference.cache
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Businness\obj\Debug\netcoreapp3.1\WeirdNumbers.Businness.AssemblyInfoInputs.cache
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Businness\obj\Debug\netcoreapp3.1\WeirdNumbers.Businness.AssemblyInfo.cs
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Businness\obj\Debug\netcoreapp3.1\WeirdNumbers.Businness.dll
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Businness\obj\Debug\netcoreapp3.1\WeirdNumbers.Businness.pdb

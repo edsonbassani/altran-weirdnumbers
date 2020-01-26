@@ -1,0 +1,14 @@
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Console\bin\Debug\netcoreapp3.1\WeirdNumbers.Console.exe
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Console\bin\Debug\netcoreapp3.1\WeirdNumbers.Console.deps.json
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Console\bin\Debug\netcoreapp3.1\WeirdNumbers.Console.runtimeconfig.json
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Console\bin\Debug\netcoreapp3.1\WeirdNumbers.Console.runtimeconfig.dev.json
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Console\bin\Debug\netcoreapp3.1\WeirdNumbers.Console.dll
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Console\bin\Debug\netcoreapp3.1\WeirdNumbers.Console.pdb
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Console\obj\Debug\netcoreapp3.1\WeirdNumbers.Console.csprojAssemblyReference.cache
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Console\obj\Debug\netcoreapp3.1\WeirdNumbers.Console.AssemblyInfoInputs.cache
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Console\obj\Debug\netcoreapp3.1\WeirdNumbers.Console.AssemblyInfo.cs
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Console\obj\Debug\netcoreapp3.1\WeirdNumbers.Console.dll
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Console\obj\Debug\netcoreapp3.1\WeirdNumbers.Console.pdb
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Console\bin\Debug\netcoreapp3.1\WeirdNumbers.Businness.dll
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Console\bin\Debug\netcoreapp3.1\WeirdNumbers.Businness.pdb
+E:\PROJECTS\Altran\WeirdNumbers\Altran.WeirdNumbers\WeirdNumbers.Console\obj\Debug\netcoreapp3.1\WeirdNumbers.Console.csproj.CopyComplete

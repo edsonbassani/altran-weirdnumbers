@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\PROJECTS\\Altran\\WeirdNumbers\\Altran.WeirdNumbers\\WeirdNumbers.Console\\WeirdNumbers.Console.csproj": {}
+  },
+  "projects": {
+    "E:\\PROJECTS\\Altran\\WeirdNumbers\\Altran.WeirdNumbers\\WeirdNumbers.Businness\\WeirdNumbers.Businness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PROJECTS\\Altran\\WeirdNumbers\\Altran.WeirdNumbers\\WeirdNumbers.Businness\\WeirdNumbers.Businness.csproj",
+        "projectName": "WeirdNumbers.Businness",
+        "projectPath": "E:\\PROJECTS\\Altran\\WeirdNumbers\\Altran.WeirdNumbers\\WeirdNumbers.Businness\\WeirdNumbers.Businness.csproj",
+        "packagesPath": "C:\\Users\\edsonbassani\\.nuget\\packages\\",
+        "outputPath": "E:\\PROJECTS\\Altran\\WeirdNumbers\\Altran.WeirdNumbers\\WeirdNumbers.Businness\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edsonbassani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PROJECTS\\Altran\\WeirdNumbers\\Altran.WeirdNumbers\\WeirdNumbers.Console\\WeirdNumbers.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PROJECTS\\Altran\\WeirdNumbers\\Altran.WeirdNumbers\\WeirdNumbers.Console\\WeirdNumbers.Console.csproj",
+        "projectName": "WeirdNumbers.Console",
+        "projectPath": "E:\\PROJECTS\\Altran\\WeirdNumbers\\Altran.WeirdNumbers\\WeirdNumbers.Console\\WeirdNumbers.Console.csproj",
+        "packagesPath": "C:\\Users\\edsonbassani\\.nuget\\packages\\",
+        "outputPath": "E:\\PROJECTS\\Altran\\WeirdNumbers\\Altran.WeirdNumbers\\WeirdNumbers.Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edsonbassani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\PROJECTS\\Altran\\WeirdNumbers\\Altran.WeirdNumbers\\WeirdNumbers.Businness\\WeirdNumbers.Businness.csproj": {
+                "projectPath": "E:\\PROJECTS\\Altran\\WeirdNumbers\\Altran.WeirdNumbers\\WeirdNumbers.Businness\\WeirdNumbers.Businness.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
