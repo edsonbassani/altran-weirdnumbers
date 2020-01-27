@@ -8,4 +8,20 @@ Referência:
 http://mathworld.wolfram.com/WeirdNumber.html
 
 
-Screenshots:
+Como usar:
+ 1. Executar a aplicação **WeirdNumbers.Console.exe**
+ 2. Informar um número natural
+ 3. Aguardar a execução
+
+
+
+**Screenshots**
+
+**Tela Inicial**
+![](https://github.com/edsonbassani/altran-weirdnumbers/blob/master/Images/WeirdNumbers.Console.png?raw=true)
+
+**Metricas de Qualidade de Código Console**
+![](https://github.com/edsonbassani/altran-weirdnumbers/blob/master/Images/WeirdNumbers.Console.CodeMetrics.png?raw=true)
+
+**Metricas de Qualidade de Código Businness**
+![](https://github.com/edsonbassani/altran-weirdnumbers/blob/master/Images/WeirdNumbers.Businness.CodeMetrics.png?raw=true)
