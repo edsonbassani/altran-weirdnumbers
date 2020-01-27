@@ -1,4 +1,3 @@
-# altran-weirdnumbers
 # Weird Numbers Project
 
 **Objetivo**
